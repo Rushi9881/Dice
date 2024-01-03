@@ -12,12 +12,6 @@ This Flutter app simulates the rolling of dice. It provides a user interface wit
 - Provides a visually appealing user interface.
 - Easy-to-use interface with a roll button.
 
-## Screenshots
-
-![Screenshot](Screenshot/screenshot.gif)
-![Screenshot](Screenshot/update.gif)
-![Screenshot](Screenshot/dice.jpg)
-
 ## Getting Started
 - These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
